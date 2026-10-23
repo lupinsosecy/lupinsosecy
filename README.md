@@ -41,7 +41,7 @@ An AI-assisted email workflow project focused on organizing email tasks and draf
 
 I'm interested in small Python automation projects, AI-assisted workflows, and practical data-processing problems.
 
-- **Email:** YOUR_WORK_EMAIL
+- **Email:** tasnim.bin.islam.automation@gmail.com
 - **GitHub:** https://github.com/lupinsosecy
 
 Open to discussing freelance projects and collaborations.
